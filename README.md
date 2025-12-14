@@ -30,14 +30,22 @@ veri_analizi.ipynb dosyasını açın.
 
 ## 👩‍💻 Proje Ekibi
 Bu proje, ekip çalışması kapsamında aşağıdaki ekip üyeleriyle birlikte geliştirilmiştir:
+
 Fatmanur Kaya
+
 Ruhe
+
 Özlem
+
 
 ## ⚠️ Projenin Kısıtları
 -Sınırlı sayıda değişken kullanılmıştır
+
 -Basit makine öğrenmesi modelleri uygulanmıştır
+
 -Politik, ekonomik ve teknolojik dış etkenler modele dahil edilmemiştir
+
 ## 📝 Açıklama
 Bu proje eğitim ve akademik amaçlarla hazırlanmıştır.
+
 Gerçek dünyadaki enerji politikaları için kesin tahminler sunmayı amaçlamamaktadır.

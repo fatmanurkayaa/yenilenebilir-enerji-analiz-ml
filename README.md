@@ -17,11 +17,15 @@ Son aşamada ise geçmiş veriler kullanılarak makine öğrenmesi modelleri uyg
 
 ## 🚀 Proje Nasıl Çalıştırılır?
 1.Bu depoyu bilgisayarınıza klonlayın ya da ZIP dosyası olarak indirip çıkarın.
+
 2.Veri dosyası (renewable_energy.xlsx ve veri_analizi.ipynb)
-3.notebook dosyasının aynı klasörde bulunduğundan emin olun.
+notebook dosyasının aynı klasörde bulunduğundan emin olun.
+
 4.Anaconda Navigator, Visual Studio Code veya Jupyter Notebook üzerinden
 veri_analizi.ipynb dosyasını açın.
+
 5.Notebook içerisindeki tüm hücreleri sırasıyla çalıştırın.
+
 6.Hücreler çalıştırıldığında grafikler, analizler ve tahmin sonuçları otomatik olarak görüntülenecektir.
 
 ## 👩‍💻 Proje Ekibi
